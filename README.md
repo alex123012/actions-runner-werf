@@ -1,5 +1,5 @@
 # actions-runner-werf
-actions runner image for werf
+actions runner image and instruct for werf
 # Actions-runner
 For deploying RunnerDeployment you must consider some points:
 - Use proper security contexts
